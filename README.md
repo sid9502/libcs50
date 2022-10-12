@@ -77,3 +77,4 @@ See `man get_*` after installation, or [CS50 Reference](https://reference.cs50.n
 *   [Emrul Hasan Zawad](https://github.com/ehzShelter)
 *   [Ivan Jasenov](https://github.com/IvanJasenov)
 *   [Kareem Zidane](https://github.com/kzidane)
+*   [Kareem Zidane](https://github.com/kzidane)
